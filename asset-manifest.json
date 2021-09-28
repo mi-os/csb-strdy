@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mi-os.github.io/csb-strdy/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mi-os.github.io/csb-strdy/static/js/main.6d6f48d0.chunk.js",
+    "main.js.map": "https://mi-os.github.io/csb-strdy/static/js/main.6d6f48d0.chunk.js.map",
+    "runtime-main.js": "https://mi-os.github.io/csb-strdy/static/js/runtime-main.8ce960ec.js",
+    "runtime-main.js.map": "https://mi-os.github.io/csb-strdy/static/js/runtime-main.8ce960ec.js.map",
+    "static/js/2.05eb4998.chunk.js": "https://mi-os.github.io/csb-strdy/static/js/2.05eb4998.chunk.js",
+    "static/js/2.05eb4998.chunk.js.map": "https://mi-os.github.io/csb-strdy/static/js/2.05eb4998.chunk.js.map",
+    "index.html": "https://mi-os.github.io/csb-strdy/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mi-os.github.io/csb-strdy/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.05eb4998.chunk.js.LICENSE.txt": "https://mi-os.github.io/csb-strdy/static/js/2.05eb4998.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce960ec.js",
+    "static/js/2.05eb4998.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6d6f48d0.chunk.js"
+  ]
+}
