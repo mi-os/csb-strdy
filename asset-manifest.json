@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://mi-os.github.io/csb-strdy/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://mi-os.github.io/csb-strdy/static/js/main.6d6f48d0.chunk.js",
-    "main.js.map": "https://mi-os.github.io/csb-strdy/static/js/main.6d6f48d0.chunk.js.map",
+    "main.js": "https://mi-os.github.io/csb-strdy/static/js/main.1c274ece.chunk.js",
+    "main.js.map": "https://mi-os.github.io/csb-strdy/static/js/main.1c274ece.chunk.js.map",
     "runtime-main.js": "https://mi-os.github.io/csb-strdy/static/js/runtime-main.8ce960ec.js",
     "runtime-main.js.map": "https://mi-os.github.io/csb-strdy/static/js/runtime-main.8ce960ec.js.map",
     "static/js/2.05eb4998.chunk.js": "https://mi-os.github.io/csb-strdy/static/js/2.05eb4998.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8ce960ec.js",
     "static/js/2.05eb4998.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.6d6f48d0.chunk.js"
+    "static/js/main.1c274ece.chunk.js"
   ]
 }
